@@ -1,3 +1,6 @@
+## 📊 GitHub Statistics
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit16g&show_icons=true&theme=radical)
 # Hi there! 👋 I'm Harshit Lodhi
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshitlodhi220593@acropolis.in)
@@ -60,9 +63,7 @@ Tools:           Docker, Git, AWS, Firebase
 Specialties:     Blockchain, AI/ML, Full-Stack Development
 ```
 
-## 📊 GitHub Statistics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit16g&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect!
 
