@@ -1,71 +1,75 @@
-## Hi there 👋
+# Hi there! 👋 I'm Harshit Lodhi
 
-Welcome to my GitHub profile! I'm **Harshit Lodhi**, a tech enthusiast passionate about building innovative projects in data science, blockchain, and full-stack development.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshitlodhi220593@acropolis.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/harshitlodhidatascientist/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)]([your-github-url](https://github.com/Harshit16g/Harshit16g)
 
-### About Me
-- 🔭 I’m currently working on groundbreaking projects like **ChatSphere** (a secure messaging platform) and **RAD** (a decentralized gaming platform).
-- 🌱 I’m constantly learning advanced AI, blockchain technologies, and cross-platform development with **Flutter**.
-- 👯 I’m looking to collaborate on AI, blockchain, and Flutter-based projects.
-- 💬 Ask me about **data science**, **crypto trading bots**, and **game development**.
-- 📫 How to reach me: **harshitlodhi220593@acropolis.in** (replace with your actual email)
+## 💫 About Me
+
+I'm a passionate tech enthusiast and full-stack developer with expertise in AI/ML, blockchain, and cross-platform development. I love building innovative solutions that make a difference.
+
+- 🔭 Currently building **ChatSphere** (secure messaging platform) and **RAD** (decentralized gaming platform)
+- 🌱 Exploring advanced AI, blockchain technologies, and Flutter development
+- 👯 Open to collaborate on AI, blockchain, and Flutter-based projects
+- 💬 Expert in data science, crypto trading bots, and game development
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy reverse-engineering games and creating innovative solutions for everyday problems.
+- ⚡ Fun fact: I enjoy reverse-engineering games and creating innovative solutions for everyday problems
+
+## 🚀 Featured Projects
+
+### ChatSphere - Secure Messaging Platform
+A next-generation messaging platform combining privacy with AI-powered features
+- 🔒 End-to-end encryption with anonymous messaging
+- 🤖 Advanced AI integration with GPT-based analytics
+- 📸 Rich media sharing with reels and stories
+- 🛠️ **Tech Stack**: ReactJS, NodeJS, MongoDB, TensorFlow/PyTorch, OpenAI API
+
+### RAD - Decentralized Gaming Platform
+Revolutionary blockchain-based gaming platform with integrated crypto economics
+- 🎮 Crypto-powered gaming ecosystem
+- 💰 Native RAD token integration
+- 🏪 NFT marketplace for in-game assets
+- 🛠️ **Tech Stack**: Web3.js, React, Solidity, stake.com UI framework
+
+### AI-Powered Binance Trading Bot
+Automated cryptocurrency trading system with advanced analytics
+- 📊 Social sentiment analysis
+- 🤖 Dynamic risk management
+- 📈 Smart selling strategies
+- 🛠️ **Tech Stack**: Python, TensorFlow, Binance API
+
+### 3D Interactive ChatGPT
+Enhanced chatbot experience with 3D visualization
+- 🎭 Dynamic expressions and animations
+- 🗣️ Voice interaction capabilities
+- 🤖 OpenAI API integration
+- 🛠️ **Tech Stack**: Three.js, WebGL, OpenAI API
+
+### Cross-Platform Crypto Wallet
+Secure and user-friendly cryptocurrency wallet built with Flutter
+- 🔐 Biometric authentication & 2FA
+- 💱 Real-time crypto tracking
+- 📱 Cross-platform compatibility
+- 🛠️ **Tech Stack**: Flutter, Dart, Blockchain APIs
+
+## 🛠️ Technical Skills
+
+```text
+Languages:       Python, JavaScript, Dart, C++
+Frameworks:      React.js, Node.js, Flutter, TensorFlow
+Tools:           Docker, Git, AWS, Firebase
+Specialties:     Blockchain, AI/ML, Full-Stack Development
+```
+
+## 📊 GitHub Statistics
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit16g&show_icons=true&theme=radical)
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on innovative projects and explore new technologies. Whether you're interested in AI, blockchain, or full-stack development, I'd love to connect and create something amazing together!
+
+Feel free to reach out via email at harshitlodhi220593@acropolis.in or connect with me on LinkedIn.
 
 ---
-
-### My Best Projects 🚀
-
-#### **1. ChatSphere**
-- **Description:** A secure and anonymous messaging platform that uses AI and ML to enhance user experiences.
-- **Features:**
-  - Anonymous messaging with end-to-end encryption.
-  - GPT-based logs for trend analysis.
-  - Reels, stories, and encrypted file sharing.
-- **Tech Stack:** ReactJS, NodeJS, MongoDB, TensorFlow/PyTorch, OpenAI API, FFmpeg, ImageMagick.
-
----
-
-#### **2. RAD (Crypto-Powered Gaming Platform)**
-- **Description:** A decentralized gaming platform with built-in crypto wallets and fair play mechanisms.
-- **Features:**
-  - Crypto-powered games with RAD tokens as the native currency.
-  - User reporting and admin-assisted dispute resolution.
-  - Marketplace for in-game assets using RAD tokens.
-- **Tech Stack:** Web3, stake.com-inspired UI, FreeInfinity hosting.
-
----
-
-#### **3. Binance Trading Bot**
-- **Description:** An AI-driven bot for automated futures trading on Binance (BTC/USDT pair).
-- **Features:**
-  - Social sentiment analysis and dynamic risk management.
-  - Incremental selling strategy during price pumps.
-  - Fee-based revenue model (1-5% of successful trade profits).
-
----
-
-#### **4. 3D ChatGPT Model**
-- **Description:** A 3D interactive chatbot system integrating OpenAI's API with dynamic expressions and voice interaction.
-- **Goal:** To enhance user interaction and present the design to OpenAI.
-
----
-
-#### **5. Flutter-Based Crypto Wallet**
-- **Description:** A cross-platform decentralized crypto wallet.
-- **Features:**
-  - Unique private keys for wallet security.
-  - Real-time balance and transaction updates.
-  - Secure login with biometric authentication and 2FA.
-- **Tech Stack:** Flutter, Dart, Blockchain APIs.
-
----
-
-### Tools & Technologies 🛠️
-- **Languages:** Python, JavaScript, Dart, C++
-- **Frameworks:** ReactJS, NodeJS, TensorFlow, PyTorch, Flutter
-- **Other Skills:** Blockchain, AI/ML, Full-Stack Development, Game Development
-
----
-
-### Let’s Collaborate!
-I'm always open to collaborating on innovative projects and exploring new technologies. Feel free to reach out, and let’s create something amazing together! 🌟
+⭐️ From [Harshit Lodhi](https://github.com/Harshit16g)
