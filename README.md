@@ -1,6 +1,4 @@
-## 📊 GitHub Statistics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit16g&show_icons=true&theme=radical)
 # Hi there! 👋 I'm Harshit Lodhi
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshitlodhi220593@acropolis.in)
@@ -16,6 +14,11 @@ I'm a passionate tech enthusiast and full-stack developer with expertise in AI/M
 - 💬 Expert in data science, crypto trading bots, and game development
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy reverse-engineering games and creating innovative solutions for everyday problems
+
+## 📊 GitHub Statistics
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit16g&show_icons=true&theme=radical)
+
 
 ## 🚀 Featured Projects
 
