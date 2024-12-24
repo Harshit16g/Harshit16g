@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Harshit Lodhi
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshitlodhi220593@acropolis.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/harshitlodhidatascientist/))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)]([your-github-url](https://github.com/Harshit16g/Harshit16g))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/harshitlodhidatascientist/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)]((https://github.com/Harshit16g/Harshit16g))
 ## 💫 About Me
 
 I'm a passionate tech enthusiast and full-stack developer with expertise in AI/ML, blockchain, and cross-platform development. I love building innovative solutions that make a difference.
