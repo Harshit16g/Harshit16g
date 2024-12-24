@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm **Harshit Lodhi**, a tech enthusiast passionat
 - 🌱 I’m constantly learning advanced AI, blockchain technologies, and cross-platform development with **Flutter**.
 - 👯 I’m looking to collaborate on AI, blockchain, and Flutter-based projects.
 - 💬 Ask me about **data science**, **crypto trading bots**, and **game development**.
-- 📫 How to reach me: **harshit.lodhi@example.com** (replace with your actual email)
+- 📫 How to reach me: **harshitlodhi220593@acropolis.in** (replace with your actual email)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy reverse-engineering games and creating innovative solutions for everyday problems.
 
