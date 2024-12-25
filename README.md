@@ -12,7 +12,6 @@ I'm a passionate tech enthusiast and full-stack developer with expertise in AI/M
 - 🌱 Exploring advanced AI, blockchain technologies, and Flutter development
 - 👯 Open to collaborate on AI, blockchain, and Flutter-based projects
 - 💬 Expert in data science, crypto trading bots, and game development
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy reverse-engineering games and creating innovative solutions for everyday problems
 
 ## 📊 GitHub Statistics
