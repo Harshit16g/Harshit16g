@@ -16,7 +16,7 @@ I'm a passionate tech enthusiast and full-stack developer with expertise in AI/M
 
 ## 📊 GitHub Statistics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit16g&show_icons=true&theme=shadcnui)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit16g&show_icons=true&theme=classic)
 
 
 ## 🚀 Featured Projects
